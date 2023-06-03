@@ -830,7 +830,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: VR-Tutorial-Series
-  metroPackageVersion: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -838,7 +838,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: VR-Tutorial-Series
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: VR-Tutorial-Series
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0

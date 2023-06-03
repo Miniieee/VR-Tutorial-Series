@@ -708,7 +708,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7598929372368796659}
   - component: {fileID: -9087234849378994827}
-  - component: {fileID: 4595551046136657834}
   m_Layer: 0
   m_Name: RightHandPrefab
   m_TagString: Untagged
@@ -754,45 +753,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &4595551046136657834
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7079380078146265417}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e4394ff9133f4a948b10a1d94ad09bc7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  handAnimator: {fileID: -9087234849378994827}
-  pinchAction:
-    m_UseReference: 1
-    m_Action:
-      m_Name: Pinch
-      m_Type: 0
-      m_ExpectedControlType: 
-      m_Id: 3b424150-f367-4e1b-9bba-2f5601e4fd73
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings: []
-      m_Flags: 0
-    m_Reference: {fileID: 7904272356298805229, guid: c348712bda248c246b8c49b3db54643f,
-      type: 3}
-  gripAction:
-    m_UseReference: 1
-    m_Action:
-      m_Name: Grip
-      m_Type: 0
-      m_ExpectedControlType: 
-      m_Id: 4eee08b4-eaa9-4c2b-90a5-d121cd1ac4df
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings: []
-      m_Flags: 0
-    m_Reference: {fileID: -1758520528963094988, guid: c348712bda248c246b8c49b3db54643f,
-      type: 3}
 --- !u!1 &7330438265445835719
 GameObject:
   m_ObjectHideFlags: 0
